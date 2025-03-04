@@ -87,3 +87,4 @@ for movie_name, review in movie_reviews.items():
     print(f"Review for {movie_name}:")
     print(review)
     print("\n" + "-"*50 + "\n")
+
